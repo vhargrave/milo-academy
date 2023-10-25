@@ -23,7 +23,7 @@ const CONFIG = {
   // codeRoot: '',
   // contentRoot: '',
   // imsClientId: 'college',
-  geoRouting: 'on',
+  // geoRouting: 'on',
   // fallbackRouting: 'off',
   locales: {
     '': { ietf: 'en-US', tk: 'hah7vzn.css' },
