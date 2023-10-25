@@ -28,7 +28,7 @@ const CONFIG = {
   locales: {
     '': { ietf: 'en-US', tk: 'hah7vzn.css' },
     it: { ietf: 'it-IT', tk: 'hah7vzn.css' },
-    de: { ietf: 'de-DE', tk: 'hah7vzn.css' },
+    de: { ietf: 'de-DE', tk: 'hah7vzn.css', dir: 'rtl' },
     mena_ar: { ietf: 'ar', tk: 'dis2dpj.css', dir: 'rtl' },
     kr: { ietf: 'ko-KR', tk: 'zfo3ouc' },
   },
